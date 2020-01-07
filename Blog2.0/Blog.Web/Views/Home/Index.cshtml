@@ -1,0 +1,21 @@
+﻿@model IEnumerable<Blog.Data.Models.Post>
+@{
+    ViewBag.Title = "Home Page";
+}
+
+<div class="jumbotron">
+    <h1>ASP.NET</h1>
+    <div>
+        There are @Model.Count() posts in the db.
+    </div>
+</div>
+
+List of the posts:
+<ul>
+
+    @foreach (var post in Model)
+    {
+        <li>@post.Title</li>
+    }
+</ul>
+

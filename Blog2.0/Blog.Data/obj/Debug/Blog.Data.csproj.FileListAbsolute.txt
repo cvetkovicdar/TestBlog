@@ -1,0 +1,5 @@
+M:\Repository\Blog2.0\Blog.Data\bin\Debug\Blog.Data.dll
+M:\Repository\Blog2.0\Blog.Data\bin\Debug\Blog.Data.pdb
+M:\Repository\Blog2.0\Blog.Data\obj\Debug\Blog.Data.csprojAssemblyReference.cache
+M:\Repository\Blog2.0\Blog.Data\obj\Debug\Blog.Data.dll
+M:\Repository\Blog2.0\Blog.Data\obj\Debug\Blog.Data.pdb
