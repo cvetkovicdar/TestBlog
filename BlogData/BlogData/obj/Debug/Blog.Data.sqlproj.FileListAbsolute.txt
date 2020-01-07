@@ -1,0 +1,5 @@
+M:\Repository\BlogData\BlogData\bin\Debug\Blog.Data.dacpac
+M:\Repository\BlogData\BlogData\bin\Debug\BlogData.dll
+M:\Repository\BlogData\BlogData\bin\Debug\BlogData.pdb
+M:\Repository\BlogData\BlogData\obj\Debug\BlogData.dll
+M:\Repository\BlogData\BlogData\obj\Debug\BlogData.pdb
